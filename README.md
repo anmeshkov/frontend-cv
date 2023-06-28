@@ -23,7 +23,7 @@
 
 | Название | Описание | Технологии |
 |----------|----------|------------|
-| **[#](# "#")**  | A webapp to do x.  | HTML\CSS\JS       |
+| **[Landwind Landing Page](https://github.com/anmeshkov/landwind-landing-page)**  | Верстка макета Figma  | HTML\CSS\JS       |
 | **[Freelancer Landing Page](https://github.com/anmeshkov/freelancer-landing-page)**  | Верстка макета Figma  | HTML\CSS\JS       |
 | **[Alivio Landing Page](https://github.com/anmeshkov/alivio-landing-page)**  | Верстка макета  Figma  | HTML\CSS\JS       |
 
