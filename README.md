@@ -23,7 +23,7 @@
 
 | Название | Описание | Технологии |
 |----------|----------|------------|
-| **[NOEMI_Modern](https://github.com/anmeshkov/habbit-app](https://github.com/anmeshkov/NOEMI_Modern)**  | Верстка макета Figma  | HTML\CSS\JS       |
+| **[NOEMI Modern](https://github.com/anmeshkov/NOEMI_Modern)**  | Верстка макета Figma  | HTML\CSS\JS       |
 | **[Habbit App](https://github.com/anmeshkov/habbit-app)**  | Трекер привычек  | HTML\CSS\JS       |
 | **[JavaScript Chessboard](https://github.com/anmeshkov/chessboard-js)**  | Шахматная доска на JS  | HTML\CSS\JS       |
 | **[Landwind Landing Page](https://github.com/anmeshkov/landwind-landing-page)**  | Верстка макета Figma  | HTML\CSS\JS       |
