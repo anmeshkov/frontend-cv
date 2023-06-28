@@ -23,6 +23,7 @@
 
 | Название | Описание | Технологии |
 |----------|----------|------------|
+| **[JavaScript Chessboard](https://github.com/anmeshkov/chessboard-js)**  | Шахматная доска на JS  | HTML\CSS\JS       |
 | **[Landwind Landing Page](https://github.com/anmeshkov/landwind-landing-page)**  | Верстка макета Figma  | HTML\CSS\JS       |
 | **[Freelancer Landing Page](https://github.com/anmeshkov/freelancer-landing-page)**  | Верстка макета Figma  | HTML\CSS\JS       |
 | **[Alivio Landing Page](https://github.com/anmeshkov/alivio-landing-page)**  | Верстка макета  Figma  | HTML\CSS\JS       |
