@@ -23,6 +23,7 @@
 
 | Название | Описание | Технологии |
 |----------|----------|------------|
+| **[Habbit App](https://github.com/anmeshkov/habbit-app)**  | Трекер привычек  | HTML\CSS\JS       |
 | **[JavaScript Chessboard](https://github.com/anmeshkov/chessboard-js)**  | Шахматная доска на JS  | HTML\CSS\JS       |
 | **[Landwind Landing Page](https://github.com/anmeshkov/landwind-landing-page)**  | Верстка макета Figma  | HTML\CSS\JS       |
 | **[Freelancer Landing Page](https://github.com/anmeshkov/freelancer-landing-page)**  | Верстка макета Figma  | HTML\CSS\JS       |
