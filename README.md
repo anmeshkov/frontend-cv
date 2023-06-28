@@ -25,7 +25,7 @@
 |----------|----------|------------|
 | **[#](# "#")**  | A webapp to do x.  | HTML\CSS\JS       |
 | **[#](# "#")**  | A webapp to do x.  | HTML\CSS\JS       |
-| **[Alivio Landing Page]()**  | Верстка макета  | HTML\CSS\JS       |
+| **[Alivio Landing Page](https://github.com/anmeshkov/alivio-landing-page)**  | Верстка макета  | HTML\CSS\JS       |
 
 ---
 
