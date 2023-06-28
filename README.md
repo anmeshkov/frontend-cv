@@ -24,8 +24,8 @@
 | Название | Описание | Технологии |
 |----------|----------|------------|
 | **[#](# "#")**  | A webapp to do x.  | HTML\CSS\JS       |
-| **[#](# "#")**  | A webapp to do x.  | HTML\CSS\JS       |
-| **[Alivio Landing Page](https://github.com/anmeshkov/alivio-landing-page)**  | Верстка макета  | HTML\CSS\JS       |
+| **[Freelancer Landing Page](https://github.com/anmeshkov/freelancer-landing-page)**  | Верстка макета Figma  | HTML\CSS\JS       |
+| **[Alivio Landing Page](https://github.com/anmeshkov/alivio-landing-page)**  | Верстка макета  Figma  | HTML\CSS\JS       |
 
 ---
 
