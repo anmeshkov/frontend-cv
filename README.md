@@ -5,6 +5,8 @@
 
 Основной стек: JavaScript, HTML, CSS.
 
+[![codewars](https://www.codewars.com/users/anmeshkov/badges/large)](https://www.codewars.com/users/anmeshkov) 
+
 **Немного обо мне:**  
 Открытый к общению, ответственный. Нахожу ответы на любые вопросы, которые меня интересуют. Постоянно развиваюсь. За плечами большой опыт работы в IT. Увлекаюсь спортом и технологиями.
 
