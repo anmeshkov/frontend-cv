@@ -23,6 +23,7 @@
 
 | Название | Описание | Технологии |
 |----------|----------|------------|
+| **[Virtual Keyboard](https://github.com/anmeshkov/virtual-keyboard)**  | Виртуальная клавиатура.  | HTML\CSS\JS       |
 | **[cssBayan](https://github.com/anmeshkov/cssBayan)**  | Аккордеон на HTML и CSS без использования JS.  | HTML\CSS       |
 | **[NOEMI Modern](https://github.com/anmeshkov/NOEMI_Modern)**  | Верстка макета Figma  | HTML\CSS\JS       |
 | **[Habbit App](https://github.com/anmeshkov/habbit-app)**  | Трекер привычек  | HTML\CSS\JS       |
